@@ -1,2 +1,4 @@
 <?php
-echo 'qwe: ';
+echo 'qwe:  f\n';
+$f = "jdfj";
+echo $f;
